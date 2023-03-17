@@ -5,7 +5,7 @@
  *
  * Description: A C progtam taht prints with printf fucntion.
  *
- * Return 0 always (Succes)
+ *  * Return: Always 0 (Success)
 */
 
 int main(void)
