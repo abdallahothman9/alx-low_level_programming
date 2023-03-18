@@ -1,3 +1,2 @@
 #!/bin/bash
 gcc -S -masm=intel $CFILE -o `echo $SCFILE | cut -d. -f1` .s`
-
