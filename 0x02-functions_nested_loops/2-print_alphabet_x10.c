@@ -1,15 +1,11 @@
-#include <stdio.h>
-
-/*
- *main is the entry fuchtion
+#include "main.h"
+/**
+ * main - check the code.
  *
- *describtion it is printing alphabet characters
- *
- *always return 0
-*/
-
+ * Return: Always 0.
+ */
 int main(void)
-	{
-	printf("hello\n");
+{
+	print_alphabet_x10();
 	return (0);
-	}
+}
