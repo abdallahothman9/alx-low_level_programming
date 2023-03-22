@@ -1,11 +1,22 @@
 #include "main.h"
 /**
- * main - check the code.
+ *print_alphabet - Prints the lowercase alphabet using putchar
  *
- * Return: Always 0.
- */
-int main(void)
+ *description prints _putchar using putchar prototype
+ *
+ * return always 0 (success)
+*/
+
+void print_alphabet(void)
 {
-	print_alphabet_x10();
-	return (0);
+	int i, j;
+
+	for (i = 0; i < 10; i++)
+	{
+
+		for (j = 'a'; j <= 'z'; j++)
+			_putchar(j);
+		_putchar('\n');
+
+	}
 }
