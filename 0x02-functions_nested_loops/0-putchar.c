@@ -3,7 +3,8 @@
 /**
  * main - prints putchar
  *
- * describtion print string
+ * describtion: print string
+ *
  *
  * return 0 to indicate success
 */
