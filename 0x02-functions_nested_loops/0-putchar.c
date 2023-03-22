@@ -1,17 +1,18 @@
 #include "main.h"
+
 /**
- *Main  is the entry for the program
+ * main - prints putchar
  *
- *Describtion print string
+ * describtion print string
  *
- * Return 0 when it is successfull
+ * return 0 to indicate success
 */
 
 int main(void)
 {
 	_putchar('_');
 	_putchar('p');
-	-putchar('u');
+	_putchar('u');
 	_putchar('t');
 	_putchar('c');
 	_putchar('h');
