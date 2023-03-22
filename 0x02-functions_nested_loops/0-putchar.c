@@ -3,10 +3,10 @@
 /**
  * main - prints putchar
  *
- * describtion: print string
+ * Describtion: print string
  *
  *
- * return 0 to indicate success
+ * return: 0 to indicate success
 */
 
 int main(void)
