@@ -1,7 +1,7 @@
 # include "main.h"
 
 /**
- * _i lower - checks if letter is lower case or capital case
+ * _islower - checks if letter is lower case or capital case
  *
  * @c: The character argument
  *

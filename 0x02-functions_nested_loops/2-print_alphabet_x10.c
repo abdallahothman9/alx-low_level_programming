@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- *print_alphabet - Prints the lowercase alphabet using putchar
+ * print_alphabet_x10 - Prints the lowercase alphabet using putchar
  *
- *description prints _putchar using putchar prototype
+ * Description prints _putchar using putchar prototype
  *
- * return always 0 (success)
+ * Return always 0 (success)
 */
 
-void print_alphabetx10(void)
+void print_alphabet_x10(void)
 {
 	int i, j;
 

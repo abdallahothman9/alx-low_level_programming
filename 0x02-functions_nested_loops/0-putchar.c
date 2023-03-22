@@ -3,11 +3,11 @@
 /**
  * main - prints putchar
  *
- * Describtion: print string
+ * Describtion:	print string
  *
  *
- * return: 0 to indicate success
-*/
+ * Return: returns 0 to indicate success
+ */
 
 int main(void)
 {
