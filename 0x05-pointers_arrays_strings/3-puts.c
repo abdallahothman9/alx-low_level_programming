@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts - function prints a string, followed by a new line.
+ * _puts - function that prints a string, followed by a new line.
  *
  * @str: is a parameter.
  *
-**/
+*/
 void _puts(char *str)
 {
 	while (*str != '\0')
@@ -14,4 +14,4 @@ void _puts(char *str)
 		str++;
 	}
 	_putchar('\n');
-}
+
